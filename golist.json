@@ -1,0 +1,9 @@
+{
+	"Google": {
+		"type": "doc_zh_CN.go",
+		"repo": "gohub/google",
+		"list": {
+			"go-github/github": "提供客户端使用 GitHub API."
+		}
+	}
+}
